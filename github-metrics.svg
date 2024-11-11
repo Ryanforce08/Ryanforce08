@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            163 Commits
+                            165 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,13 +219,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="192.32511631978346" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="192.32511631978346" y="0" width="129.54758169318512" height="8" fill="#E22837"/>
-                    <rect mask="url(#languages-bar)" x="321.87269801296856" y="0" width="105.4252489681038" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="427.29794698107236" y="0" width="28.35644017695421" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.65438715802657" y="0" width="3.1593193861816813" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.81370654420823" y="0" width="0.7867324745981833" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="459.6004390188064" y="0" width="0.39956098119356553" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="190.96469235346424" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="190.96469235346424" y="0" width="128.63121861858247" height="8" fill="#E22837"/>
+                    <rect mask="url(#languages-bar)" x="319.59591097204674" y="0" width="104.82406348824304" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="424.4199744602898" y="0" width="31.26515166710124" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.685126127391" y="0" width="3.1369717391740375" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.822097866565" y="0" width="0.7811674723041231" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="459.60326533886916" y="0" width="0.3967346611308342" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -281,6 +281,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Ryanforce08/ryanforce08.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#197268a</div>
+                                        <div class="message">Update periods.js</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -354,32 +374,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">FRC5113/2024-Testing-Swerve</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">RR-HolonomicController</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#90620bf</div>
-                                        <div class="message">wip no work</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Nov 2024, 16:28:35  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Nov 2024, 17:19:01  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
